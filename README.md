@@ -17,6 +17,7 @@
  
 ### Linguagens Mais Usadas ou Aprendidas:
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Portugol](https://img.shields.io/badge/-PortugolStudio-0D1117?style=for-the-badge&logo=portugol&labelColor=0D1117&textColor=0D1117)&nbsp;
  
 ### Ferramentas Conhecidas ou Utilizadas:
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
