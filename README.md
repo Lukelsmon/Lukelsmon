@@ -13,7 +13,11 @@
 
 <div align="center">  
 <a href="https://www.instagram.com/lukelsmon/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-</div> 
+</div>
+
+<div align="center">
+  <a href="https://canary.discord.com/channels/@me/697851614215798834/" target="_blank"><img src="https://img.shields.io/badge/-Discord-rgb(0, 0, 0)?style=for-the-badge&logo=discord&logoColor=blue"</a>
+  </div>
  
 ### Linguagens Mais Usadas ou Aprendidas:
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
