@@ -26,6 +26,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
+![Google Sheets](https://img.shields.io/badge/-GoogleSheets-0D1117?style=for-the-badge&logo=googlesheets&labelColor=0D1117)&nbsp;
+
  
 ### Conhecimentos Extras:
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css&logoColor=1572B6&labelColor=0D1117)&nbsp;
@@ -37,6 +39,12 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
+### Jogos ou Plataformas que Jogo/Utilizo/Utilizei:
+![Steam](https://img.shields.io/badge/-Steam-0D1117?style=for-the-badge&logo=steam&labelColor=0D1117)&nbsp;
+![Roblox](https://img.shields.io/badge/-Roblox-0D1117?style=for-the-badge&logo=roblox&labelColor=0D1117)&nbsp;
+![Discord](https://img.shields.io/badge/-Discord-0D1117?style=for-the-badge&logo=discord&labelColor=0D1117)&nbsp;
+![Twitch](https://img.shields.io/badge/-Twitch-0D1117?style=for-the-badge&logo=twitch&labelColor=0D1117)&nbsp;
+![Twitter(X)](https://img.shields.io/badge/-Twitter-0D1117?style=for-the-badge&logo=x&labelColor=0D1117)&nbsp;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E20F14&height=120&section=footer"/>
 
