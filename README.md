@@ -18,6 +18,10 @@
 <div align="center">
   <a href="https://canary.discord.com/channels/@me/697851614215798834/" target="_blank"><img src="https://img.shields.io/badge/-Discord-rgb(0, 0, 0)?style=for-the-badge&logo=discord&logoColor=blue"</a>
   </div>
+
+<div align="center">
+  <a href="www.linkedin.com/in/lucas-correia-531506322/" target="_blank"><img src=</a>
+</div>  
  
 ### Linguagens Mais Usadas ou Aprendidas:
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
@@ -29,7 +33,10 @@
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-0D1117?style=for-the-badge&logo=ubuntu&labelColor=0D1117)&nbsp;
+![LibreOfficeWritter](https://img.shields.io/badge/-Libre_Office_Writter-0D1117?style=for-the-badge&logo=libreofficewriter&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
+![PacoteOffice](https://img.shields.io/badge/-Pacote_Office-0D1117?style=for-the-badge&logo=office365&labelColor=0D1117)&nbsp;
 ![Google Sheets](https://img.shields.io/badge/-GoogleSheets-0D1117?style=for-the-badge&logo=googlesheets&labelColor=0D1117)&nbsp;
 
  
@@ -37,11 +44,17 @@
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
+![Canva](https://img.shields.io/badge/-Canva-0D1117?style=for-the-badge&logo=canva&logoColor=1572B6&labelColor=0D1117)&nbsp;
+
   
 ### Estudando no Momento:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-0D1117?style=for-the-badge&logo=flask&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Selenium](https://img.shields.io/badge/-Selenium-0D1117?style=for-the-badge&logo=selenium&logoColor=1572B6&labelColor=0D1117)&nbsp;
+
+
 
 ### Jogos ou Plataformas que Jogo/Utilizo/Utilizei:
 ![Steam](https://img.shields.io/badge/-Steam-0D1117?style=for-the-badge&logo=steam&labelColor=0D1117)&nbsp;
