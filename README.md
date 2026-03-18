@@ -49,7 +49,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-0D1117?style=for-the-badge&logo=flask&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Selenium](https://img.shields.io/badge/-Selenium-0D1117?style=for-the-badge&logo=selenium&logoColor=1572B6&labelColor=0D1117)&nbsp;
-
+![MySQL](https://img.shields.io/badge/-MYSQL-0D1117?style=for-the-badge&logo=mysql&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
 
 ### Jogos ou Plataformas que Jogo/Utilizo/Utilizei:
