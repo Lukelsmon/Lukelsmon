@@ -18,10 +18,6 @@
 <div align="center">
   <a href="https://canary.discord.com/channels/@me/697851614215798834/" target="_blank"><img src="https://img.shields.io/badge/-Discord-rgb(0, 0, 0)?style=for-the-badge&logo=discord&logoColor=blue"</a>
   </div>
-
-<div align="center">
-  <a href="www.linkedin.com/in/lucas-correia-531506322/" target="_blank"><img src=</a>
-</div>  
  
 ### Linguagens Mais Usadas ou Aprendidas:
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
