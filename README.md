@@ -51,9 +51,8 @@
 ![MySQL](https://img.shields.io/badge/-MYSQL-0D1117?style=for-the-badge&logo=mysql&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
 
-### Jogos ou Plataformas que Jogo/Utilizo/Utilizei:
+### Plataformas que /Utilizo/Utilizei:
 ![Steam](https://img.shields.io/badge/-Steam-0D1117?style=for-the-badge&logo=steam&labelColor=0D1117)&nbsp;
-![Roblox](https://img.shields.io/badge/-Roblox-0D1117?style=for-the-badge&logo=roblox&labelColor=0D1117)&nbsp;
 ![Discord](https://img.shields.io/badge/-Discord-0D1117?style=for-the-badge&logo=discord&labelColor=0D1117)&nbsp;
 ![Twitch](https://img.shields.io/badge/-Twitch-0D1117?style=for-the-badge&logo=twitch&labelColor=0D1117)&nbsp;
 ![Twitter(X)](https://img.shields.io/badge/-Twitter-0D1117?style=for-the-badge&logo=x&labelColor=0D1117)&nbsp;
