@@ -49,6 +49,10 @@
 ![Flask](https://img.shields.io/badge/-Flask-0D1117?style=for-the-badge&logo=flask&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Selenium](https://img.shields.io/badge/-Selenium-0D1117?style=for-the-badge&logo=selenium&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MYSQL-0D1117?style=for-the-badge&logo=mysql&logoColor=1572B6&labelColor=0D1117)&nbsp;
+[![Google Cloud](https://img.shields.io/badge/Google_Cloud-0D1117?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
+[![BigQuery](https://img.shields.io/badge/BigQuery-0D1117?style=for-the-badge&logo=googlebigquery&logoColor=white)](https://cloud.google.com/bigquery)
+[![Cloud Storage](https://img.shields.io/badge/Cloud_Storage-0D1117?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com/storage)
+[![Dataproc](https://img.shields.io/badge/Dataproc-0D1117?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com/dataproc)
 
 
 ### Plataformas que Utilizo:
