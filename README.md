@@ -50,7 +50,7 @@
 [![Dataproc](https://img.shields.io/badge/Dataproc-0D1117?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com/dataproc)
 
 
-### Plataformas que Utilizo:
+### Outras Redes:
 ![Steam](https://img.shields.io/badge/-Steam-0D1117?style=for-the-badge&logo=steam&labelColor=0D1117)&nbsp;
 ![Discord](https://img.shields.io/badge/-Discord-0D1117?style=for-the-badge&logo=discord&labelColor=0D1117)&nbsp;
 ![Twitter(X)](https://img.shields.io/badge/-Twitter-0D1117?style=for-the-badge&logo=x&labelColor=0D1117)&nbsp;
