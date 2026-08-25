@@ -18,10 +18,7 @@
   <a href="https://canary.discord.com/channels/@me/697851614215798834/" target="_blank"><img src="https://img.shields.io/badge/-Discord-rgb(0, 0, 0)?style=for-the-badge&logo=discord&logoColor=blue"</a>
   </div>
  
-### Linguagens Mais Usadas ou Aprendidas:
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
- 
-### Ferramentas Conhecidas ou Utilizadas:
+### Ferramentas Utilizadas:
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
@@ -35,8 +32,6 @@
 
  
 ### Conhecimentos Extras:
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 ![Canva](https://img.shields.io/badge/-Canva-0D1117?style=for-the-badge&logo=canva&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
