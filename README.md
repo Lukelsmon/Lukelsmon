@@ -1,11 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E20F14&height=120&section=header"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E20F14&size=35&center=true&vCenter=true&width=1000&lines=Hey,+It's+Me+Lucas+Correia;I'm+Studying+Systems+of+Information+On+UNINASSAU)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFD700&size=35&center=true&vCenter=true&width=1000&lines=Hey,+It's+Me+Lucas+Correia;I'm+Studying+Systems+of+Information+On+UNINASSAU)](https://git.io/typing-svg) 
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Lukelsmon&theme=radical)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Lukelsmon&rank_icon=github&custom_title=Flowery%27s%20Stats%21&show_icons=true&include_all_commits=true&theme=highcontrast)](https://github-stats-extended.vercel.app/api?username=Lukelsmon&rank_icon=github&custom_title=Flowery%27s%20Stats%21&show_icons=true&include_all_commits=true&theme=highcontrast)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Lukelsmon&langs_count=7&theme=maroongold)](https://github-stats-extended.vercel.app/api/top-langs?username=Lukelsmon&langs_count=7&theme=maroongold)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Lukelsmon&langs_count=7&theme=highcontrast)](https://github-stats-extended.vercel.app/api/top-langs?username=Lukelsmon&langs_count=7&theme=highcontrast)
 
 
 <div align="center">  
