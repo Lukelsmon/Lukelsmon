@@ -1,4 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=header"/>
+<div align="center">
+  <img width="100%" src="https://github.com/user-attachments/assets/fb7c1b9c-c771-4d92-a9ca-ac823314be76"/>
+</div>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFD700&size=35&center=true&vCenter=true&width=1000&lines=Hey,+It's+Me+Lucas+Correia;I'm+Studying+Systems+of+Information+On+UNINASSAU)](https://git.io/typing-svg)
@@ -17,13 +19,13 @@
   </a>
 </p>
 
-<div align="center">  
-<a href="https://www.instagram.com/lukelsmon/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-</div>
+##
 
-<div align="center">
-  <a href="https://canary.discord.com/channels/@me/697851614215798834/" target="_blank"><img src="https://img.shields.io/badge/-Discord-rgb(0, 0, 0)?style=for-the-badge&logo=discord&logoColor=blue"</a>
-  </div>
+<div align="center">  
+  <a href="https://www.instagram.com/lukelsmon/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
+  <a href="https://canary.discord.com/channels/@me/697851614215798834/" target="_blank"><img src="https://img.shields.io/badge/-Discord-rgb(0, 0, 0)?style=for-the-badge&logo=discord&logoColor=blue"> </a>
+  <a href="https://www.linkedin.com/in/lucas-correia-531506322/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23007785?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
  
 ### Ferramentas Utilizadas:
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
@@ -56,12 +58,6 @@
 [![BigQuery](https://img.shields.io/badge/BigQuery-0D1117?style=for-the-badge&logo=googlebigquery&logoColor=white)](https://cloud.google.com/bigquery)
 [![Cloud Storage](https://img.shields.io/badge/Cloud_Storage-0D1117?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com/storage)
 [![Dataproc](https://img.shields.io/badge/Dataproc-0D1117?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com/dataproc)
-
-
-### Outras Redes:
-![Steam](https://img.shields.io/badge/-Steam-0D1117?style=for-the-badge&logo=steam&labelColor=0D1117)&nbsp;
-![Discord](https://img.shields.io/badge/-Discord-0D1117?style=for-the-badge&logo=discord&labelColor=0D1117)&nbsp;
-![Twitter(X)](https://img.shields.io/badge/-Twitter-0D1117?style=for-the-badge&logo=x&labelColor=0D1117)&nbsp;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E20F14&height=120&section=footer"/>
 
