@@ -4,13 +4,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFD700&size=35&center=true&vCenter=true&width=1000&lines=Hey,+It's+Me+Lucas+Correia;I'm+Studying+Systems+of+Information+On+UNINASSAU)](https://git.io/typing-svg)
 
 
-
-<!-- Imagem acima dos stats -->
 <p align="center">
   <img src="https://media.tenor.com/SGuU8eM-MosAAAAM/flowery-deltarune-ch5-spoilers.gif" width="150" height="200" alt="Flowery GIF" />
 </p>
 
-<!-- Cards de Stats -->
 <p align="center">
   <a href="https://github-stats-extended.vercel.app/api?username=Lukelsmon&rank_icon=github&custom_title=Flowery%27s%20Stats%21&show_icons=true&include_all_commits=true&theme=highcontrast">
     <img src="https://github-stats-extended.vercel.app/api?username=Lukelsmon&rank_icon=github&custom_title=Flowery%27s%20Stats%21&show_icons=true&include_all_commits=true&theme=highcontrast" width="350" alt="GitHub Stats" />
