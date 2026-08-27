@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFD700&size=35&center=true&vCenter=true&width=1000&lines=Hey,+It's+Me+Lucas+Correia;I'm+Studying+Systems+of+Information+On+UNINASSAU)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://media.tenor.com/SGuU8eM-MosAAAAM/flowery-deltarune-ch5-spoilers.gif" width="150" height="200" alt="Flowery GIF" />
+  <img src="https://media1.tenor.com/m/HM7hf7P7hY4AAAAd/deltarune-chapter-5-delta.gif" width="150" height="200" alt="Flowery GIF" />
 </p>
 
 <p align="center">
@@ -49,7 +49,7 @@
       <div align="right">
         <img src="https://readme-typing-svg.herokuapp.com/?color=FFD700&size=20&width=200&lines=A+Great+Style!+✨&center=false" alt="A Great Style" />
         <br><br>
-        <img alt="Flowery_great_style" height="200" width="190" src="https://i.pinimg.com/originals/cc/dc/a3/ccdca33b4ca409ce7591d2aa67859409.gif">
+        <img alt="Flowery_great_style" height="200" width="190" src="https://media.tenor.com/syHXVi0fYTIAAAAj/flowery-flowery-deltarune.gif">
       </div>
     </td>
   </tr>
