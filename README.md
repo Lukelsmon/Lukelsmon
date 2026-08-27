@@ -70,3 +70,7 @@
     </td>
   </tr>
 </table>
+
+<div>
+  <img src="https://media1.tenor.com/m/pcf6VcA81xIAAAAC/flowery-yellow.gif">
+</div>
