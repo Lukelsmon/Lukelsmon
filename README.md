@@ -72,5 +72,5 @@
 </table>
 
 <div align="center">
-  <img src="https://media1.tenor.com/m/pcf6VcA81xIAAAAC/flowery-yellow.gif" width="4500" height="150">
+  <img src="https://media1.tenor.com/m/pcf6VcA81xIAAAAC/flowery-yellow.gif" width="400" height="150">
 </div>
