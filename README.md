@@ -71,6 +71,6 @@
   </tr>
 </table>
 
-<div>
-  <img src="https://media1.tenor.com/m/pcf6VcA81xIAAAAC/flowery-yellow.gif">
+<div align="center">
+  <img src="https://media1.tenor.com/m/pcf6VcA81xIAAAAC/flowery-yellow.gif" width="400" height="150">
 </div>
