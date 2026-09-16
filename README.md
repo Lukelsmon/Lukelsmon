@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://i.pinimg.com/736x/b0/71/c5/b071c532a3e704b71b44e9ed6a260efe.jpg"/>
+  <img width="100%" src="https://media1.tenor.com/m/iQ4bj6WwSAcAAAAd/deltarune-deltarune-chapter-5.gif"/>
 
 <br/><br/>
 
