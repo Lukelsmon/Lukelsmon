@@ -63,5 +63,5 @@
 <br><br>
 
 <div align="center">
-  <img src="https://media1.tenor.com/m/qnXarQxv-7cAAAAC/ichigo-zangetsu.gif" width="400" height="250">
+  <img src="https://media1.tenor.com/m/jgEMnLDIp8UAAAAd/bleach-thousand-year-blood-war.gif" width="400" height="250">
 </div>
