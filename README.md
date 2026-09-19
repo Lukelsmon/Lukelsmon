@@ -4,7 +4,7 @@
   
   <br/> 
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3200&pause=900&color=F5C518&background=00000000&center=true&vCenter=true&width=650&lines=Ei%2C+Rei...+Demorei+para+chegar%3F;Estudante+de+S.I+em+constante+evolu%C3%A7%C3%A3o;O+cavalo+e+o+Rei+trabalhando+juntos." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3200&pause=900&color=F5C518&background=00000000&center=true&vCenter=true&width=650&lines=Ei%2C+Rei...+Demorei+para+chegar%3F;Estudante+de+S.I+em+constante+evolu%C3%A7%C3%A3o;O+Cavalo+e+o+Rei+Trabalhando+Juntos." alt="Typing SVG" />
 
 <br/><br/>
 
