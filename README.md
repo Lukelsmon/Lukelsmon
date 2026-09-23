@@ -66,11 +66,33 @@
 
 <br>
 
-### 🎨 Linguagens & Ferramentas
+### 🎨 Linguagens De Programação (Front-End)
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,github,vscode,figma&theme=dark" />
-</div>
+![Javascript](https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=javascript&logoColor=FBD161)
+![HTML](https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=FBD161)
+![Typescript](https://img.shields.io/badge/Typescript-000000?style=for-the-badge&logo=typescript&logoColor=FBD161)
+![CSS](https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css&logoColor=FBD161)
+
+### 💻 Linguagens de Programação (Back-End)
+
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FBD161)
+![Typescript](https://img.shields.io/badge/Typescript-000000?style=for-the-badge&logo=typescript&logoColor=FBD161)
+![Javascript](https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=javascript&logoColor=FBD161)
+
+### 🔧 FrameWorks
+![Angular](https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=FBD161)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=FBD161)
+![NodeJS](https://img.shields.io/badge/NodeJS-000000?style=for-the-badge&logo=nodedotjs&logoColor=FBD161)
+
+### ☁️ DevOps e Banco de Dados
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=FBD161)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=FBD161)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=FBD161)
+
+### Ferramentas e IDE
+
+
+###
 
 ---
 
