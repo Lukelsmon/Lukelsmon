@@ -22,7 +22,6 @@
 
 ---
 
-
 <p align="center">
   <a href="https://github-stats-extended.vercel.app/api?username=Lukelsmon&rank_icon=github&custom_title=Flowery%27s%20Stats%21&show_icons=true&include_all_commits=true&theme=highcontrast">
     <img src="https://github-stats-extended.vercel.app/api?username=Lukelsmon&rank_icon=github&custom_title=Flowery%27s%20Stats%21&show_icons=true&include_all_commits=true&theme=highcontrast" width="350" alt="GitHub Stats" />
@@ -32,7 +31,12 @@
   </a>
 </p>
 
-##
+---
+
+<p align="center">
+  Meus Contatos
+  <img src="https://media1.tenor.com/m/HTXUmhtsQpAAAAAd/deltarune-flowery.gif" width="50" height="50" valign="middle">
+</p>
 
 <div align="center">  
   <a href="https://www.instagram.com/lukelsmon/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
@@ -84,18 +88,36 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=FBD161)
 ![NodeJS](https://img.shields.io/badge/NodeJS-000000?style=for-the-badge&logo=nodedotjs&logoColor=FBD161)
 
-### ☁️ DevOps e Banco de Dados
+### 🏦 DevOps e Banco de Dados
 ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=FBD161)
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=FBD161)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=FBD161)
 
-### Ferramentas e IDE
+### ⚙️ Ferramentas e IDE
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,vscode,ubuntu,github" width="145">
+  </a>
+</p>
 
-###
+### ☁️ Áreas de Interesse / Aprendendo
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=gcp,azure,aws,c,py,docker,react,java,mongodb,sqlite,coffeescript,go,flask">
+  </a>
+</p>
+
+### 👾 AIs
+
+![Gemini](https://img.shields.io/badge/GoogleGemini-000000?style=for-the-badge&logo=googlegemini&logoColor=FBD161)
+![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=claude&logoColor=FBD161)
+![OpenAIGym](https://img.shields.io/badge/OpenAIGym-000000?style=for-the-badge&logo=openaigym&logoColor=FBD161)
 
 ---
 
 <div align="center">
   <img src="https://media1.tenor.com/m/pcf6VcA81xIAAAAC/flowery-yellow.gif" width="400" height="150">
+  <p> Obrigado pela presença!</p>
 </div>
