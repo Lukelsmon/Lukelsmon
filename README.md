@@ -95,9 +95,9 @@
 
 ### ⚙️ Ferramentas e IDE
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,ubuntu,github" width="145">
+    <img src="https://skillicons.dev/icons?i=git,vscode,ubuntu,github" width="150px">
   </a>
 </p>
 
