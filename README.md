@@ -106,6 +106,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=gcp,azure,aws,c,py,docker,react,java,mongodb,sqlite,coffeescript,go,flask">
+    <img align="right" src="https://media1.tenor.com/m/I8h6I-7jPesAAAAC/deltarune-flowery-deltarune.gif" width="130" height="130" valign="middle">
   </a>
 </p>
 
@@ -116,6 +117,8 @@
 ![OpenAIGym](https://img.shields.io/badge/OpenAIGym-000000?style=for-the-badge&logo=openaigym&logoColor=FBD161)
 
 ---
+
+<br>
 
 <div align="center">
   <img src="https://media1.tenor.com/m/pcf6VcA81xIAAAAC/flowery-yellow.gif" width="400" height="150">
